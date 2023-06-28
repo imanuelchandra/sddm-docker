@@ -1,0 +1,1 @@
+Xephyr :1 -ac -br -screen 1366x768 -resizeable -reset -terminate &
